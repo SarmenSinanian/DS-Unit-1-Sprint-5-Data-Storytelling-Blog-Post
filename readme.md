@@ -53,7 +53,8 @@ Required
 - Give a two minute presentation on Zoom for your cohort.
 
 Recommended
-- Practice beforehand, out loud and timed. 
+- Practice beforehand, out loud and timed.
+
 ABOVE NOT NECESSARILY REQUIRED
 
 ## Milestones
