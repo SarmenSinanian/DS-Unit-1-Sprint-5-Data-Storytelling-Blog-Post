@@ -41,19 +41,20 @@ Recommended
 ### 4. Portfolio
 Required
 - Add your short summary to your portfolio site.
-- Link from your portfolio site to your blog post and code.
+- Link from your portfolio site to your blog post and code. Blog post to portfolio site. Both to code and vice versa.
 
 Recommended
 - Host your site with GitHub Pages.
 - Include your name, bio, and contact info on your site.
 
+BELOW NOT NECESSARILY REQUIRED
 ### 5. Two minute presentation
 Required
 - Give a two minute presentation on Zoom for your cohort.
 
 Recommended
 - Practice beforehand, out loud and timed. 
-
+ABOVE NOT NECESSARILY REQUIRED
 
 ## Milestones
 
